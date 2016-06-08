@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:12.091787
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:16
 #+TITLE: 造像量度經
 #+PROPERTY: CBETA_ID X01n0028
 #+PROPERTY: ID KR6j0659
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 01, No. 028
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0659_X_001-0454c> 
 #+PROPERTY: JUAN 1
-No.28¶
-
- 佛說造像量度經¶
+No. 28¶
+佛說造像量度經¶
 大清內閣掌譯番蒙諸文西番學總管儀賓¶
 　工布查布　譯¶
 
@@ -69,6 +68,6 @@ No.28¶
 指根連縵網。趺高如龜背。掌平滿柔輭。滋潤色丹赤。¶
 輪螺吉祥字。諸妙相深微。如是如來相。一切福德備。¶
 
-佛說此經已。賢者舍利弗。及諸弟子。一切大眾。聞佛¶
+佛說此經巳。賢者舍利弗。及諸弟子。一切大眾。聞佛¶
 所說。皆大歡喜。信受奉行。¶
 佛說造像量度經
